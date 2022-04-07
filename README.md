@@ -1,2 +1,2 @@
 # go-project-template
-A template for my Go projects
+A template for my Go CLI projects
